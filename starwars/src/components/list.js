@@ -1,5 +1,6 @@
 import React from "react";
 import Character from "./listItem";
+'./StartWars.css';
 
  function CharacterList(props) {
   return (
